@@ -4,7 +4,7 @@ module.exports = {
     locales: {
         '/': {
             lang: 'de-DE'
-            
+
         }
     },
     head: [
@@ -21,19 +21,13 @@ module.exports = {
     ],
     serviceWorker: true,
     themeConfig: {
-        docsDir: 'docs',
-        nav: [{
-                text: 'Start',
-                link: '/docs/',
-                text: 'About',
-                link: '/about/',
-                text: 'Kontakt',
-                link: '/kontakt/',
-                text: 'Impressum',
-                link: '/impressum/'
-            }
+
+        nav: [
+            { text: 'Start', link: '/start/' },
+            { text: 'About', link: '/about/' },
+            { text: 'Impressum', link: '/impressum/' },
+            { text: 'Kontakt', link: '/kontakt/' }
 
         ]
-
     }
 }
