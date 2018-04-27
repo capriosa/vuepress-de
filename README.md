@@ -4,7 +4,7 @@ actionText: Start →
 actionLink: /start/
 features:
 - title: One-click Deploy
-  details: Du kannst den ”Deploy to Netlify“ Button, nutzen um VuePress mit einem Klick bei Netlify zu installieren.
+  details: Du kannst den ”Deploy to Netlify“ Button nutzen, um VuePress mit einem Klick bei Netlify zu installieren.
 - title: Github
   details: Du benötigst einen Github und einen Netlify Account, sonst funktioniert der Button nicht.
 - title: Netlify
