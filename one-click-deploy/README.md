@@ -1,3 +1,19 @@
+---
+home: true
+pageClass: front
+actionText: Home
+actionLink: /
+features:
+- title: One-click Deploy
+  details: Use the ”Deploy to Netlify“ button at the bottom of this page to create a new VuePress installation with one simple click.
+- title: Github
+  details: You need a Github account. Otherwise the Deploy Button doesn't work.
+- title: Netlify
+  details: The “Deploy to Netlify” button helps users deploy new sites from templates with one single click on Netlify.
+footer: MIT Licensed | VuePress Copyright © 2018-present Evan You
+---
+
+
 # VuePress Deploy
 
 Dies ist ein Start Template für eine [VuePress](https://vuepress.vuejs.org) Site und einer Progressive Web App (PWA).

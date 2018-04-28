@@ -2,6 +2,7 @@
 home: true
 actionText: Start →
 actionLink: /start/
+pageClass: front
 features:
 - title: VuePress
   details: VuePress ist eine Static Site Engine basierend auf Vue.js.
