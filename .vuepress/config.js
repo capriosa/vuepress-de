@@ -26,7 +26,8 @@ module.exports = {
             { text: 'Start', link: '/start/' },
             { text: 'About', link: '/about/' },
             { text: 'Impressum', link: '/impressum/' },
-            { text: 'Kontakt', link: '/kontakt/' }
+            { text: 'Kontakt', link: '/kontakt/' },
+            { text: 'One-Click Deploy', link: '/one-click-deploy/' },
 
         ]
     }

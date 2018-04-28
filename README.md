@@ -3,32 +3,25 @@ home: true
 actionText: Start →
 actionLink: /start/
 features:
-- title: One-click Deploy
-  details: Du kannst den ”Deploy to Netlify“ Button nutzen, um VuePress mit einem Klick bei Netlify zu installieren.
-- title: Github
-  details: Du benötigst einen Github und einen Netlify Account, sonst funktioniert der Button nicht.
-- title: Netlify
-  details: Der “Deploy to Netlify” Button ermöglicht Installationen mit einem Klick. Er ist für jede Art sog. JamStack Projekte geeignet.
+- title: VuePress
+  details: VuePress ist eine Static Site Engine basierend auf Vue.js.
+- title: Vue.js
+  details: Vue.js ist ein Javascript Framework zur Entwicklung interaktiver Benutzeroberflächen.
+- title: Meinolf Droste
+  details: Das bin ich, der Betreiber dieser Website und der Autor der Beiträge.
 footer: MIT Licensed | VuePress Copyright © 2018-present Evan You
 ---
 
-# VuePress Deploy
+## Herzlich Willkommen auf VuePress.de
+Ich freue mich, dass du VuePress.de gefunden hast. Deshalb möchte ich hier kurz vorstellen worum es hier geht, auch wenn das die meisten Besucher vermutlich wissen.
 
-Dies ist ein Start Template für eine [VuePress](https://vuepress.vuejs.org) Site und einer Progressive Web App (PWA).
+Mitte April 2018 gab es eine News im Netz, die sich rasend schnell verbreitete und weltweit auf viel Interesse stoß. Evan You, der Entwickler des Javascript Frameworks **Vue.js**, stellte zu diesem Zeitpunkt VuePress vor.
 
-## One-click Deploy
+VuePress ist eine *Static Site Engine*, basierend auf Vue.js.  
+Mehr über VuePress kannst du weiter unten lesen: [Über VuePress](/start/#uber-vuepress)
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/capriosa/vuepress-deploy)
+Ich habe mir dann recht schnell VuePress installiert, ein wenig ausprobiert und war sofort begeistert. Dann kam mir die Idee mal zu prüfen, ob die Domain vuepress.de noch zu haben ist. Und das war sie. :tada:
 
-## Lokale Entwicklung
+Danach habe ich darüber nachgedacht was ich genau auf VuePress.de anbieten möchte. Das Ergebnis habe ich [hier](/about/) zusammengefasst.
 
-Zur lokalen Entwicklung kannst du gerne mein Github Repository nutzen.
-
-```bash{3}
-git clone https://github.com/capriosa/vuepress-deploy
-cd vuepress-deploy
-npm install
-npm run build or npm run dev to start a local server
-```
-
-Die VuePress Dokumentation findest du hier. [VuePress Docs](https://vuepress.vuejs.org)
+Es würde mich freuen, hiermit dein Interesse an VuePress und VuePress.de geweckt zu haben.
