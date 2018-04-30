@@ -3,6 +3,8 @@ $textColor = #212121
 $borderColor = #bdbdbd
 $codeBgColor = #282c34
 
+
+
 .front {
     background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.7)), url("/front.jpg");
     background-size: cover;
@@ -10,6 +12,12 @@ $codeBgColor = #282c34
     
     
 }
+
+.front.deploy .features
+    margin-bottom: 1px
+
+.front .features
+    margin-bottom: 55px
 
 .sidebar {
     background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.6)), url("/sidebar.jpg");
@@ -29,29 +37,11 @@ h1, h2, h3 {
     border-bottom: 3px solid #4527a0; /* This creates the border. Replace black with whatever color you want. */
 }
 
-body
-   overflow-x: hidden !important;  
 
-@media (min-width: 1000px)
-    .front
-        max-height: 85vh;
-    .home .features 
-        margin-bottom: 170px !important;
-
-
-@media  (max-width:999px) 
-    .content.custom 
-    
-        background: #fff;
-        position: absolute;
-        padding: 20px 30px 0 20px !important;
-        margin: 0;
-        max-width: 100%;
-        left: 0;
-        overflow-x: hidden !important;
-
-
-
+.home .footer
+    border-top: none
+    color: #fff
+    padding: 1.3rem
 
 
 
@@ -118,4 +108,23 @@ body
     position: absolute;
     right: 16.5rem;
     top: 0.7rem;
+}
+
+.deploy .home .hero h1, .deploy .home .hero .description {
+    text-indent: -9999px;
+    line-height: 0; /* Collapse the original line */
+}
+
+.deploy .home .hero h1:after {
+  content: "Netlify Deploy Button";
+  text-indent: 0;
+  display: block;
+  line-height: initial;
+}
+
+.deploy .home .hero p.description:after {
+  content: "Mit dem One-Click Installer kann VuePress in nur einer Minute installiert werden.";
+  text-indent: 0;
+  display: block;
+  line-height: initial;
 }
