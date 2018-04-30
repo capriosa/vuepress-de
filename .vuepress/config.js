@@ -1,12 +1,6 @@
 module.exports = {
     title: "VuePress.de",
     description: "Hier schreibe ich über Vue und Vuepress",
-    locales: {
-        '/': {
-            lang: 'de-DE'
-
-        }
-    },
     head: [
         ['link', { rel: 'icon', href: `/logo.png` }],
         ['link', { rel: 'manifest', href: '/manifest.json' }],
@@ -25,9 +19,11 @@ module.exports = {
         nav: [
             { text: 'Start', link: '/start/' },
             { text: 'About', link: '/about/' },
+            { text: 'News', link: '/news/' },
+            { text: 'Tipps', link: '/tipps/' },
             { text: 'Impressum', link: '/impressum/' },
             { text: 'Kontakt', link: '/kontakt/' },
-            { text: 'One-Click Deploy', link: '/one-click-deploy/' },
+            { text: 'One-Click Deploy', link: '/one-click-deploy/' }
 
         ]
     }
