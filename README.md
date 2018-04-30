@@ -1,6 +1,6 @@
 ---
 home: true
-actionText: Start →
+actionText: Start Journey →
 actionLink: /start/
 pageClass: front
 features:
