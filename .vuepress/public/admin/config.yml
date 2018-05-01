@@ -17,7 +17,6 @@ collections:
       - {label: "Sidebar", name: "sidebar", widget: "string",optional:true,default:"auto"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "landingpage"
-    label: "Landingpage"
     folder: "landingpages"
     create: true
     slug: "{{slug}}"
