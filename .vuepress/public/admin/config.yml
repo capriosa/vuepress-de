@@ -21,7 +21,7 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      - home: true
+      - {label: "Home", name: "home", widget: "string", default:"true"}
       - {label: "Title", name: "title", widget: "string"}
       - { name: actionText, label: 'CTA-Button Text', widget: string }
       - { name: actionLink, label: 'CTA-Button Link', widget: string }
