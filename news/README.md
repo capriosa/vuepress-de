@@ -7,7 +7,7 @@ Hier findest du kurz zusammengefasste News zu allen Themen rund um Vue.js und Vu
 
 ## Algolia Suche
 Ohne großes TamTam wurde die Algolia-Suche integriert. Es stand plötzlich nicht mehr in der Liste der Todos.
-Um Algolia zu aktivieren muss der ThemConfig Eintrag in der config.js so erweitert werden.
+Um Algolia zu aktivieren muss der ThemeConfig Eintrag in der config.js so erweitert werden.
 
 ```js{3}
 module.exports = {
