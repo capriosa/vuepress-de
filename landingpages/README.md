@@ -8,4 +8,3 @@ features:
   details: Lorem Ipsum 2
   title: Titel
 ---
-
