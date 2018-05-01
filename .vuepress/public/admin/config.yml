@@ -21,20 +21,13 @@ collections:
     folder: "landingpages"
     create: true
     slug: "{{slug}}"
+    name: "testimonials"
+    widget: "list"
     fields:
-      - {label: "Home", name: "home", widget: "string", default:"true"}
-      - {label: "Title", name: "title", widget: "string"}
-      - { name: actionText, label: 'CTA-Button Text', widget: string }
-      - { name: actionLink, label: 'CTA-Button Link', widget: string }
-      - { name: pageClass, label: 'Page Class', widget: string }
-      widget: "list"
+      - {label: Quote, name: quote, widget: string, default: "Everything is awesome!"}
+      - label: Author
+        name: author
+        widget: object
         fields:
-          - {label: Quote, name: quote, widget: string, default: "Everything is awesome!"}
-          - label: Author
-          name: author
-          label: "Features"
-          widget: object
-            fields:
-              - { name: title, label: 'Title', widget: string }
-              - { name: details, label: 'Details', widget: text }
+          - {label: Name, name: name, widget: string, default: "Emmet"}
         
