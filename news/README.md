@@ -4,6 +4,9 @@ sidebar: auto
 # News
 Hier findest du kurz zusammengefasste News zu allen Themen rund um Vue.js und VuePress.
 
+## Suche
+Im Moment macht die Suche hier Zicken. Sie funktioniert einfach nicht :(  
+Da muss ich mal nachhaken.
 
 ## Algolia Suche
 Ohne großes TamTam wurde die Algolia-Suche integriert. Es stand plötzlich nicht mehr in der Liste der Todos.
