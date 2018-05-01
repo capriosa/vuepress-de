@@ -5,7 +5,7 @@ actionText: Install Vuepress
 actionLink: /install-vuepress/
 features:
 - title: One-click Deploy
-  details: Use the ”Deploy to Netlify“ button at the bottom of this page to create a new VuePress installation with one simple click.
+  details: Use the ”Deploy to Netlify“ to create a new VuePress installation with one simple click. You'll get a PWA and NetlifyCMS out of the box.
 - title: Github
   details: You need a Github and a Netlify account. Otherwise the Deploy Button doesn't work.
 - title: Netlify
