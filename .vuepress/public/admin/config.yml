@@ -28,6 +28,6 @@ collections:
       - { name: pageClass, label: 'Page Class', widget: string }
       - name: features
         widget: object
-          fields:
-            - { name: title, label: 'Title', widget: string }
-            - { name: details, label: 'Details', widget: text }
+        fields:
+          - { name: title, label: 'Title', widget: string }
+          - { name: details, label: 'Details', widget: text }
