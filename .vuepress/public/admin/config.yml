@@ -27,10 +27,14 @@ collections:
       - { name: actionText, label: 'CTA-Button Text', widget: string }
       - { name: actionLink, label: 'CTA-Button Link', widget: string }
       - { name: pageClass, label: 'Page Class', widget: string }
-      - name: features
-        label: "Features"
-        widget: list
+      widget: "list"
         fields:
-          - { name: title, label: 'Title', widget: string }
-          - { name: details, label: 'Details', widget: text }
+          - {label: Quote, name: quote, widget: string, default: "Everything is awesome!"}
+          - label: Author
+          name: author
+          label: "Features"
+          widget: object
+            fields:
+              - { name: title, label: 'Title', widget: string }
+              - { name: details, label: 'Details', widget: text }
         
