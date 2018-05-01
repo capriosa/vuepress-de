@@ -21,7 +21,6 @@ collections:
     folder: "landingpages"
     create: true
     slug: "{{slug}}"
-    name: "testimonials"
     widget: "list"
     fields:
       - {label: Quote, name: quote, widget: string, default: "Everything is awesome!"}
