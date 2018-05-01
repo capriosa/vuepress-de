@@ -5,10 +5,10 @@ actionText: Install Vuepress
 actionLink: /install-vuepress/
 features:
 - title: One-click Deploy
-  details: Use the ”Deploy to Netlify“ to create a new VuePress installation with one simple click. You'll get a PWA and NetlifyCMS out of the box.
+  details: Klicke auf 'Install Vuepress' und benutze dann den 'Deploy to Netlify' Button, um VuePress zu installieren. Mit einer PWA und dem NetlifyCMS.
 - title: Github
-  details: You need a Github and a Netlify account. Otherwise the Deploy Button doesn't work.
+  details: Du benötigst einen Github und einen Netlify Account. Sonst funktioniert der Deploy Button nicht.
 - title: Netlify
-  details: The “Deploy to Netlify” button helps users deploy new sites from templates with one single click on Netlify.
+  details: Netlify ist ein Hosting- und Deployment Service für Static Site Engines und dem sog. JAMstack.
 footer: MIT Licensed | VuePress Copyright © 2018-present Evan You
 ---
