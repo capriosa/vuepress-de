@@ -1,6 +1,6 @@
 ---
 title: Progressive Web Apps
-sidebar: true
+sidebar: auto
 ---
 # Progressive Web Apps
 
