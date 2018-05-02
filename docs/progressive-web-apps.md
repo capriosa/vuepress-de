@@ -20,10 +20,30 @@ Viele Frameworks bieten *Out of the box* schon alles an, damit eine PWA erstellt
 
 Bei Vuepress muss man die manifest.json manuell erzeugen. Mein [One-Click Deploy](/one-click-deploy/) Projekt enthält die manifest.json, die natürlich bearbeitet und an die eigene Website angepasst werden muss.
 
+Wer Netlify zum Hosting nutzt, kann ein *Force HTTPS* einstellen. Diese Möglichkeit wird auch bei der kostenlosen Version angeboten :tada
+
 ## Entwicklung einer PWA
+Die Entwicklung einer PWA entspricht der Entwicklung einer normalen Website mit HTML5, CSS 3 und Javascript. Bei Vuepress kann jede erweiterte Funktionalität mit Vue.js und Vuex entwickelt werden.
 
 ## Wie funktioniert die App?
+Einem Benutzer, der die Website auf einem Smartphone aufruft, wird ein Banner angezeigt, wo er mit einem Klick die Site zu seinem Homescreen hinzufügen kann.
+Ruft er später die Site über das Homescreen-Icon auf, sieht er die Site mit einem Look and Feel einer App. So wird z.B. nicht mehr die URL-Leiste angezeigt.
 
 ## Vorteile einer PWA
+- Muss nicht über einen Store bezogen und installiert werden
+- Kann zum Homescreen hinzugefügt werden
+- Funktioniert auch Offline oder einer schlechten Verbindung
 
-## Die fertige App testen
+::: tip Info
+Wer es mit seiner Website auf den Homescreen eines Besuchers schafft, hat enorme Wettbewerbsvorteile gegenüber seiner Konkurrenz.
+
+## Die fertige App mit Lightroom testen
+Entwickler können im Chrome, über die Entwicklertools mit Lightroom, prüfen, ob alle Kriterien für eine PWA erfüllt werden. Einfach auf den Tab *Audit* klicken und dann *Run Audit* aufrufen. Dort kann dann angegeben werden was alles geprüft werden  soll.
+Zur Verfügung stehen Tests für
+- Performance
+- PWA
+- Best Practices
+- Accessibility
+- SEO
+
+Vuepress.de erzielt hier die Werte 97, 91, 100, 100, 89.
