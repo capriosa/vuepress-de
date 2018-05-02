@@ -6,7 +6,7 @@ sidebar: auto
 Progessive, also fortschrittliche Web Apps, sollen die Apps der Zukunft werden. So stellt es sich zumindest Google vor. Apps sollen dann nicht mehr über App-Stores installiert werden, sondern einfach über den Browser. Es sei mal dahingestellt, ob sich dieses Model durchsetzt, aber bereits heute haben PWA's enorme Vorteile verglichen mit *normalen* Websites.
 
 ::: tip Info
-Eine PWA ist eine Responsive Website, die einige Merkmale besitzt die wir von nativen Apps kennen. So können z.B. Inhalte auch Offline gelesen werden.
+Eine PWA ist eine Responsive Website, die einige Merkmale besitzt, die wir von nativen Apps kennen. So können z.B. Inhalte auch Offline gelesen werden.
 :::
 
 ## Anforderungen
@@ -36,6 +36,7 @@ Ruft er später die Site über das Homescreen-Icon auf, sieht er die Site mit ei
 
 ::: tip Info
 Wer es mit seiner Website auf den Homescreen eines Besuchers schafft, hat enorme Wettbewerbsvorteile gegenüber seiner Konkurrenz.
+:::
 
 ## Die fertige App mit Lightroom testen
 Entwickler können im Chrome, über die Entwicklertools mit Lightroom, prüfen, ob alle Kriterien für eine PWA erfüllt werden. Einfach auf den Tab *Audit* klicken und dann *Run Audit* aufrufen. Dort kann dann angegeben werden was alles geprüft werden  soll.
