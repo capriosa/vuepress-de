@@ -2,8 +2,8 @@ backend:
   name: github
   repo: capriosa/vuepress-de
   branch: master
-  publish_mode: editorial_workflow
 
+publish_mode: editorial_workflow
 public_folder: ".vuepress/dist/"
 media_folder: ".vuepress/dist/assets/img"
 
