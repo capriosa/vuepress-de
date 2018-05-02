@@ -36,6 +36,7 @@ Ruft er später die Site über das Homescreen-Icon auf, sieht er die Site mit ei
 
 ::: tip Info
 Wer es mit seiner Website auf den Homescreen eines Besuchers schafft, hat enorme Wettbewerbsvorteile gegenüber seiner Konkurrenz.
+:::
 
 ## Die fertige App mit Lightroom testen
 Entwickler können im Chrome, über die Entwicklertools mit Lightroom, prüfen, ob alle Kriterien für eine PWA erfüllt werden. Einfach auf den Tab *Audit* klicken und dann *Run Audit* aufrufen. Dort kann dann angegeben werden was alles geprüft werden  soll.
