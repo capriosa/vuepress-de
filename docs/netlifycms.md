@@ -1,5 +1,0 @@
----
-title: NetlifyCMS
-sidebar: '---'
----
-# NetlifyCMS

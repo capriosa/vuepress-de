@@ -1,4 +1,5 @@
 ---
+sidebarDepth: 0
 home: true
 actionText: Start Journey →
 actionLink: /start/
