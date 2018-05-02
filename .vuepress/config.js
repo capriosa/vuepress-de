@@ -16,7 +16,7 @@ module.exports = {
     themeConfig: {
 
         nav: [
-            { text: 'Start', link: '/start/' },
+            { text: 'VuePress', link: '/start/' },
             { text: 'About', link: '/about/' },
             { text: 'News', link: '/news/' },
             { text: 'Tipps', link: '/tipps/' },
