@@ -20,7 +20,7 @@ Viele Frameworks bieten *Out of the box* schon alles an, damit eine PWA erstellt
 
 Bei Vuepress muss man die manifest.json manuell erzeugen. Mein [One-Click Deploy](/one-click-deploy/) Projekt enthält die manifest.json, die natürlich bearbeitet und an die eigene Website angepasst werden muss.
 
-Wer Netlify zum Hosting nutzt, kann ein *Force HTTPS* einstellen. Diese Möglichkeit wird auch bei der kostenlosen Version angeboten :tada
+Wer Netlify zum Hosting nutzt, kann ein *Force HTTPS* einstellen. Diese Möglichkeit wird auch bei der kostenlosen Version angeboten :100:
 
 ## Entwicklung einer PWA
 Die Entwicklung einer PWA entspricht der Entwicklung einer normalen Website mit HTML5, CSS 3 und Javascript. Bei Vuepress kann jede erweiterte Funktionalität mit Vue.js und Vuex entwickelt werden.
