@@ -1,7 +1,7 @@
 {
   "name": "vuepress",
   "version": "1.0.0",
-  "repository": "https://github.com/capriosa/vuepress-deploy",
+  "repository": "https://github.com/capriosa/vuepress-de",
   "description": "Starter template for a VuePress site",
   "author": "Meinolf Droste <mdwp.post@gmail.com>",
   "license": "MIT",
