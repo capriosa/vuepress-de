@@ -10,7 +10,7 @@
     "build": "vuepress build"
   },
   "devDependencies": {
-    "vuepress": "^0.6.0"
+    "vuepress": "^1.0.0"
   },
   "dependencies": {
     "eslint": "^4.19.1",
