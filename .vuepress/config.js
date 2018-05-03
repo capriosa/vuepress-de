@@ -14,6 +14,7 @@ module.exports = {
     ],
     serviceWorker: true,
     themeConfig: {
+        search: false,
 
         nav: [
             { text: 'VuePress', link: '/start/' },
