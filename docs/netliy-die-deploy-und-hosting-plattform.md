@@ -39,17 +39,31 @@ Die einfachste Möglichkeit ein neues Projekt anzulegen bietet der Netlify Deplo
 - HTTPS und Redirects von HTTP zu HTTPS
 - Automatischer Build Prozess für nahezu alle **Static Site Engines**
 - Deploy Previews
-- Fallback, wenn der Build Prozess durch einen Fehler abgebrochen wird
+- **Fallback, wenn der Build Prozess durch einen Fehler abgebrochen wird**
 - Schnittstellen via Webhooks zu Github, Gitlab und Bitbucket
 - Anbindung an viele **Decoupled CMS** möglich
 - Globales CDN
 - Hohe Performance
 - Sicherheit
 
+Alleine die Tatsache, dass eine Website **nie ausfallen** kann, ist für mich Grund genug Netlify einzusetzen. Kommt es zu einem Fehler bei dem Build Prozess, schaut man sich in Ruhe die Deploy Logs an, korrigiert den Fehler und der Build Prozess wird erneut gestartet.
+
 :::tip Info
 Alle diese Features stehen mit dem kostenlosen Netlify Plan zur Verfügung.
-- Formulare
 :::
 
-## Features des kostenpflichtigen Netlify Plan
+## Zusätzliche Features des kostenpflichtigen Netlify Plan
+- Formulare
+- AWS Lamda Funktionen
+- Teams
+- Identity
+
+Diese Features sind aber erst nach einem bestimmten Volumen kostenpflichtig. Ein einfaches Kontaktformular z.B. kostet erst nach der hundersten Anfrage Geld.
+
+## Fazit
+Netlify bietet m.E. die beste Plattform und die besten Services rund um Static Site Engines und dem JAMstack.
+
+:::tip
+Hintergrundinformationen zum JAMstack sind auf [Jamstack.org](https://jamstack.org/) zu finden. Dort sind auch viele *Real World* JAMstack-Sites zu finden.
+:::
 
