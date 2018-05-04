@@ -12,7 +12,7 @@ Aber welcher Entwickler hat die nicht?
 
 Entwickler können auch direkt nach Netlify deployen. Das geht Folgendermaßen mit dem Netlify-CLI.
 
-``` sh{3}
+```
 npm install netlify-cli -g;
 cd ~/my-static-website;
 netlify deploy
