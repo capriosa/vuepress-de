@@ -5,14 +5,14 @@ sidebar: auto
 # {{ page.title }}
 Die US-Amerikanische Firma [Netlily](https://netlify.com) betreibt eine ausgezeichnete Plattform für automatische Deployments und dem Hosting von statischen Websites oder Sites des sog. JAMstacks. Netlify nutzt für Deployments das Versionskontrollsystem Git und einen dieser Service-Anbieter: Github, Gitlab oder Bitbucket.
 
-:::tip
+::: tip
 Du brauchst einen Account bei einer der drei genannten Git-Plattformen. 
 Aber welcher Entwickler hat die nicht?
 :::
 
 Entwickler können auch direkt nach Netlify deployen. Das geht Folgendermaßen mit dem Netlify-CLI.
 
-```sh {3}
+``` sh{3}
 npm install netlify-cli -g;
 cd ~/my-static-website;
 netlify deploy
@@ -31,7 +31,7 @@ Wenn du das eingerichtet hast, und lokal bei dir ein Repository mit einer Static
 4. Netlify startet den Build Prozess der jeweiligen **Static Site Engine**
 5. Die Änderungen werden Online auf deiner Site angezeigt
 
-:::tip
+::: tip
 Die einfachste Möglichkeit ein neues Projekt anzulegen bietet der Netlify Deploy Button. Auf [Staticgen.com](https://www.staticgen.com/) sind alle möglichen Engines aufgelistet. Sehr viele, bieten mit dem Netlify Deploy Button, eine *One-Click* Installation an.
 :::
 
@@ -48,7 +48,7 @@ Die einfachste Möglichkeit ein neues Projekt anzulegen bietet der Netlify Deplo
 
 Alleine die Tatsache, dass eine Website **nie ausfallen** kann, ist für mich Grund genug Netlify einzusetzen. Kommt es zu einem Fehler bei dem Build Prozess, schaut man sich in Ruhe die Deploy Logs an, korrigiert den Fehler und der Build Prozess wird erneut gestartet.
 
-:::tip Info
+::: tip Info
 Alle diese Features stehen mit dem kostenlosen Netlify Plan zur Verfügung.
 :::
 
@@ -63,7 +63,7 @@ Diese Features sind aber erst nach einem bestimmten Volumen kostenpflichtig. Ein
 ## Fazit
 Netlify bietet m.E. die beste Plattform und die besten Services rund um Static Site Engines und dem JAMstack.
 
-:::tip
+::: tip
 Hintergrundinformationen zum JAMstack sind auf [Jamstack.org](https://jamstack.org/) zu finden. Dort sind auch viele *Real World* JAMstack-Sites zu finden.
 :::
 
