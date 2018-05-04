@@ -5,7 +5,7 @@ sidebar: auto
 # {{ $page.title }}
 Die US-Amerikanische Firma [Netlily](https://netlify.com) betreibt eine ausgezeichnete Plattform für automatische Deployments und dem Hosting von statischen Websites oder Sites des sog. JAMstacks. Netlify nutzt für Deployments das Versionskontrollsystem Git und einen dieser Service-Anbieter: Github, Gitlab oder Bitbucket.
 
-:::tip
+::: tip
 Du brauchst einen Account bei einer der drei genannten Git-Plattformen. 
 Aber welcher Entwickler hat die nicht?
 :::
