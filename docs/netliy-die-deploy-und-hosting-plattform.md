@@ -3,10 +3,10 @@ title: Netlify - Die Deploy und Hosting Plattform
 sidebar: auto
 ---
 # {{ page.title }}
-Die US-Amerikanische Firma betreibt eine ausgezeichnete Plattform für automatische Deployments und dem Hosting von statisches Websites oder Sites des sog. JAMstacks. Netlify nutzt für Deployments das Versionskontrollsystem Git und einen dieser Service-Anbieter: Github, Gitlab oder Bitbucket.
+Die US-Amerikanische Firma [Netlily](https://netlify.com) betreibt eine ausgezeichnete Plattform für automatische Deployments und dem Hosting von statischen Websites oder Sites des sog. JAMstacks. Netlify nutzt für Deployments das Versionskontrollsystem Git und einen dieser Service-Anbieter: Github, Gitlab oder Bitbucket.
 
 :::tip
-Du brauchst einen Account bei einem der drei genannten Git-Plattformen. 
+Du brauchst einen Account bei einer der drei genannten Git-Plattformen. 
 Aber welcher Entwickler hat die nicht?
 :::
 
@@ -17,13 +17,13 @@ npm install netlify-cli -g;
 cd ~/my-static-website;
 netlify deploy
 ```
-Einach in das Verzeichnis deiner statischen Site wechseln, *netlify deploy* aufrufen und eine Minute später ist die Site über eine Subdomain bei Netlify erreichbar. Der Name der Subdomain ist frei belegbar, solange der Name noch nicht vergeben ist. Selbstverständlich können auch eigene Domains benutzt werden.
+Einfach in das Verzeichnis deiner statischen Site wechseln, *netlify deploy* aufrufen und eine Minute später ist die Site über eine Subdomain bei Netlify erreichbar. Der Name der Subdomain ist frei wählbar, solange der Name noch nicht vergeben ist. Selbstverständlich können auch eigene Domains benutzt werden.
 
 Diese einfache Art des Deployments würde ich nur für kleine Landingpages oder zum schnellen Testen empfehlen.
 
 ## Contiunous Deployments
 Größere Projekte, die eh mit Git verwaltet werden, sollten den automatischen Workflow von Netlify nutzen. [Hier wird die notwendige Konfiguration](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/) beschrieben, damit z.B. Github und Netlify miteinander kommunizieren können.
-Wenn du das eingerichtet hast, lokal bei dir ein Repository mit einer Static Site Engine läuft, sieht dein Workflow ab jetzt so aus:
+Wenn du das eingerichtet hast, und lokal bei dir ein Repository mit einer Static Site Engine läuft, sieht dein Workflow ab jetzt so aus:
 
 1. Änderungen am Code oder Inhalten commiten
 2. Nach Github pushen
@@ -35,7 +35,7 @@ Wenn du das eingerichtet hast, lokal bei dir ein Repository mit einer Static Sit
 Die einfachste Möglichkeit ein neues Projekt anzulegen bietet der Netlify Deploy Button. Auf [Staticgen.com](https://www.staticgen.com/) sind alle möglichen Engines aufgelistet. Sehr viele, bieten mit dem Netlify Deploy Button, eine *One-Click* Installation an.
 :::
 
-## Vorteile
+## Vorteile von Netlify
 - HTTPS und Redirects von HTTP zu HTTPS
 - Automatischer Build Prozess für nahezu alle **Static Site Engines**
 - Deploy Previews
@@ -58,7 +58,7 @@ Alle diese Features stehen mit dem kostenlosen Netlify Plan zur Verfügung.
 - Teams
 - Identity
 
-Diese Features sind aber erst nach einem bestimmten Volumen kostenpflichtig. Ein einfaches Kontaktformular z.B. kostet erst nach der hundersten Anfrage Geld.
+Diese Features sind aber erst nach einem bestimmten Volumen kostenpflichtig. Ein einfaches Kontaktformular z.B. kostet erst nach der hundersten Anfrage im Monat Geld.
 
 ## Fazit
 Netlify bietet m.E. die beste Plattform und die besten Services rund um Static Site Engines und dem JAMstack.
