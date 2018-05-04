@@ -63,7 +63,9 @@ Diese Features sind aber erst nach einem bestimmten Volumen kostenpflichtig. Ein
 ## Fazit
 Netlify bietet m.E. die beste Plattform und die besten Services rund um Static Site Engines und dem JAMstack.
 
-::: tip
 Hintergrundinformationen zum JAMstack sind auf [Jamstack.org](https://jamstack.org/) zu finden. Dort sind auch viele *Real World* JAMstack-Sites zu finden.
+
+::: tip
+In meinem nächsten Artikel werde ich das NetlifyCMS *unter die Lupe nehmen*.
 :::
 
