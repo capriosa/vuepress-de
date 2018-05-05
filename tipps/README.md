@@ -4,6 +4,10 @@ sidebar: auto
 # Tipps
 Auf dieser Seite sammle ich Tipps, die dir vielleicht helfen, das eine oder andere Problem mit Vue.js oder VuePress zu lösen.
 
+## Master Frontend Development
+Hier findest du alles zum Thema Frontend-Entwicklung.
+[Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
+
 ## Eine News-App mit Vue.js entwickeln
 Ein sehr anschaulich geschriebener Artikel, der die Entwicklung einer kleinen News-App, mit Vue.js, beschreibt.
 [News-App](https://stevenziu.github.io/2018/01/15/News-Feed-App-by-Vue-js/)
@@ -11,7 +15,6 @@ Ein sehr anschaulich geschriebener Artikel, der die Entwicklung einer kleinen Ne
 ## Mit Vue eine Web-Komponente entwickeln
 Hier wird beschrieben, wie mit Vue.js eine echte Web-Komponente entwickelt werden kann.  
 [Vue Web-Komponente](http://vuetips.com/vue-web-components)
----
 
 ## Page classes
 Im Frontmatter einer Seite kann man mit
