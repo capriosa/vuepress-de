@@ -4,9 +4,9 @@ sidebar: auto
 # News
 Hier findest du kurz zusammengefasste News zu allen Themen rund um Vue.js und VuePress.
 
-## Suche
-Im Moment macht die Suche hier Zicken. Sie funktioniert einfach nicht :(  
-Da muss ich mal nachhaken.
+## Eine News-App mit Vue.js entwickeln
+Ein sehr anschaulich geschriebener Artikel, der die Entwicklung einer kleinen News-App, mit Vue.js, beschreibt.
+[News-App](https://stevenziu.github.io/2018/01/15/News-Feed-App-by-Vue-js/)
 
 ## Algolia Suche
 Ohne großes TamTam wurde die Algolia-Suche integriert. Es stand plötzlich nicht mehr in der Liste der Todos.
