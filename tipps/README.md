@@ -7,6 +7,7 @@ Auf dieser Seite sammle ich Tipps, die dir vielleicht helfen, das eine oder ande
 ## Mit Vue eine Web-Komponente entwickeln
 Hier wird beschrieben, wie mit Vue.js eine echte Web-Komponente entwickelt werden kann.  
 [Vue Web-Komponente](http://vuetips.com/vue-web-components)
+
 ---
 
 ## Page classes
