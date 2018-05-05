@@ -6,8 +6,7 @@ sidebar: auto
 Die US-Amerikanische Firma [Netlily](https://netlify.com) betreibt eine ausgezeichnete Plattform für automatische Deployments und dem Hosting von statischen Websites oder Sites des sog. JAMstacks. Netlify nutzt für Deployments das Versionskontrollsystem Git und einen dieser Service-Anbieter: Github, Gitlab oder Bitbucket.
 
 ::: tip
-Du brauchst einen Account bei einer der drei genannten Git-Plattformen. 
-Aber welcher Entwickler hat die nicht?
+Du brauchst einen Account bei einer der drei genannten Git-Plattformen, um die Services von Netlify in vollem Umfang nutzen zu können. 
 :::
 
 Entwickler können auch direkt nach Netlify deployen. Das geht Folgendermaßen mit dem Netlify-CLI.
@@ -63,7 +62,9 @@ Diese Features sind aber erst nach einem bestimmten Volumen kostenpflichtig. Ein
 ## Fazit
 Netlify bietet m.E. die beste Plattform und die besten Services rund um Static Site Engines und dem JAMstack.
 
-::: tip
 Hintergrundinformationen zum JAMstack sind auf [Jamstack.org](https://jamstack.org/) zu finden. Dort sind auch viele *Real World* JAMstack-Sites zu finden.
+
+::: tip
+In meinem nächsten Artikel werde ich das NetlifyCMS *unter die Lupe nehmen*.
 :::
 
