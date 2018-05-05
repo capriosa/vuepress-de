@@ -4,6 +4,10 @@ sidebar: auto
 # Tipps
 Auf dieser Seite sammle ich Tipps, die dir vielleicht helfen, das eine oder andere Problem mit VuePress zu lösen.
 
+## Mit Vue eine Web Komponente entwickeln
+Hier wird beschrieben, wie mit Vue.js eine echte Web-Komponente entwickelt werden kann.  
+[Vue Web-Komponente](http://vuetips.com/vue-web-components)
+
 ## Page classes
 Im Frontmatter einer Seite kann man mit
 ```
@@ -20,7 +24,7 @@ Wenn ich es richtig sehe, müssen Links zu Vuepress-Seiten immer so aussehen '/i
 
 ## Home Frontmatter
 Mit den besonderen Frontmatter Angaben von VuePress zur schicken Gestaltung der Startseite, können auch beliebig viele Landingpages eingerichtet werde. Aber du kannst das jeder Seite hinzugefügen.
-```
+```sh
 ---
 home: true
 actionText: Start →
