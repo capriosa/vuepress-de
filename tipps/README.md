@@ -2,7 +2,7 @@
 sidebar: auto
 ---
 # Tipps
-Auf dieser Seite sammle ich Tipps, die dir vielleicht helfen, das eine oder andere Problem mit VuePress zu lösen.
+Auf dieser Seite sammle ich Tipps, die dir vielleicht helfen, das eine oder andere Problem mit Vue.js oder VuePress zu lösen.
 
 ## Mit Vue eine Web Komponente entwickeln
 Hier wird beschrieben, wie mit Vue.js eine echte Web-Komponente entwickelt werden kann.  
