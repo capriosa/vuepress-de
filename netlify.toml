@@ -1,6 +1,3 @@
 [build]
   command = "npm run build" 
   publish = ".vuepress/dist/"
-[[headers]]
-  [headers.values]
-  Cache-Control = "no-cache, no-store, must-revalidate"
