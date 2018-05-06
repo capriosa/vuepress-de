@@ -3,4 +3,4 @@
   publish = ".vuepress/dist/"
 [[headers]]
   [headers.values]
-  Cache-Control: no-cache, no-store, must-revalidate
+  Cache-Control = no-cache, no-store, must-revalidate
