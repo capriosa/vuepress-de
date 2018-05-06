@@ -14,7 +14,7 @@ Ein sehr anschaulich geschriebener Artikel, der die Entwicklung einer kleinen Ne
 
 ## Mit Vue eine Web-Komponente entwickeln
 Hier wird beschrieben, wie mit Vue.js eine echte Web-Komponente entwickelt werden kann.  
-[Vue Web-Komponente](http://vuetips.com/vue-web-components)
+[Vue Web-Komponenten](http://vuetips.com/vue-web-components)
 
 ## Page classes
 Im Frontmatter einer Seite kann man mit
