@@ -5,11 +5,11 @@ sidebar: auto
 Auf dieser Seite sammle ich Tipps, die dir vielleicht helfen, das eine oder andere Problem mit Vue.js oder VuePress zu lösen.
 
 ## Master Frontend Development
-Hier findest du alles zum Thema Frontend-Entwicklung.
+Hier findest du alles zum Thema Frontend-Entwicklung.  
 [Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
 
 ## Eine News-App mit Vue.js entwickeln
-Ein sehr anschaulich geschriebener Artikel, der die Entwicklung einer kleinen News-App, mit Vue.js, beschreibt.
+Ein sehr anschaulich geschriebener Artikel, der die Entwicklung einer kleinen News-App, mit Vue.js, beschreibt.  
 [News-App](https://stevenziu.github.io/2018/01/15/News-Feed-App-by-Vue-js/)
 
 ## Mit Vue eine Web-Komponente entwickeln
@@ -32,7 +32,7 @@ Wenn ich es richtig sehe, müssen Links zu Vuepress-Seiten immer so aussehen '/i
 
 ## Home Frontmatter
 Mit den besonderen Frontmatter Angaben von VuePress zur schicken Gestaltung der Startseite, können auch beliebig viele Landingpages eingerichtet werde. Aber du kannst das jeder Seite hinzugefügen.
-```sh
+```bash
 ---
 home: true
 actionText: Start →
