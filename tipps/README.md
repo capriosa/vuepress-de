@@ -31,7 +31,7 @@ Wenn ich es richtig sehe, müssen Links zu Vuepress-Seiten immer so aussehen '/i
 Änders lässt sich das, indem man für jede Seite ein neues Verzeichnis mit einer README.md anlegt. Dann kann die Seite einfach mit '/impressum/' aufgerufen werden. Zumindest bei mir ist es so, dass der Slash am Ende zwingend erforderlich ist.
 
 ## Home Frontmatter
-Mit den besonderen Frontmatter Angaben von VuePress zur schicken Gestaltung der Startseite, können auch beliebig viele Landingpages eingerichtet werde. Aber du kannst das jeder Seite hinzugefügen.
+Mit den besonderen Frontmatter Angaben von VuePress zur schicken Gestaltung der Startseite, können auch beliebig viele Landingpages eingerichtet werde. Du kannst die speziellen Frontmatter Angaben jeder Seite hinzugefügen.
 ```
 ---
 home: true

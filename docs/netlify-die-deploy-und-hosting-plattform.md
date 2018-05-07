@@ -31,7 +31,7 @@ Wenn du das eingerichtet hast, und lokal bei dir ein Repository mit einer Static
 5. Die Änderungen werden Online auf deiner Site angezeigt
 
 ::: tip
-Die einfachste Möglichkeit ein neues Projekt anzulegen bietet der Netlify Deploy Button. Auf [Staticgen.com](https://www.staticgen.com/) sind alle möglichen Engines aufgelistet. Sehr viele, bieten mit dem Netlify Deploy Button, eine *One-Click* Installation an.
+Die einfachste Möglichkeit ein neues Projekt anzulegen bietet der Netlify Deploy Button. Auf [Staticgen.com](https://www.staticgen.com/) sind alle möglichen Engines aufgelistet. Sehr viele, bieten mit dem Netlify Deploy Button, eine *One-Click* Installation an. Du solltest die Verzeichnisse 'node_modules' und '.vuepress/dist' zu deiner .gitignore hinzufügen. Netlify erzeugt diese Verzeichnisse automatisch im build Prozess.
 :::
 
 ## Vorteile von Netlify
