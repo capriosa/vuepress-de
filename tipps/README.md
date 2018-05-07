@@ -32,7 +32,7 @@ Wenn ich es richtig sehe, müssen Links zu Vuepress-Seiten immer so aussehen '/i
 
 ## Home Frontmatter
 Mit den besonderen Frontmatter Angaben von VuePress zur schicken Gestaltung der Startseite, können auch beliebig viele Landingpages eingerichtet werde. Aber du kannst das jeder Seite hinzugefügen.
-```bash
+```
 ---
 home: true
 actionText: Start →
