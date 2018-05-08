@@ -3,7 +3,7 @@ title: Netlify - Die Deploy und Hosting Plattform
 sidebar: auto
 ---
 # {{ $page.title }}
-Die US-Amerikanische Firma [Netlily](https://netlify.com) betreibt eine ausgezeichnete Plattform für automatische Deployments und dem Hosting von statischen Websites oder Sites des sog. JAMstacks. Netlify nutzt für Deployments das Versionskontrollsystem Git und einen dieser Service-Anbieter: Github, Gitlab oder Bitbucket.
+Die US-Amerikanische Firma <Netlify/> betreibt eine ausgezeichnete Plattform für automatische Deployments und dem Hosting von statischen Websites oder Sites des sog. JAMstacks. Netlify nutzt für Deployments das Versionskontrollsystem Git und einen dieser Service-Anbieter: Github, Gitlab oder Bitbucket.
 
 ::: tip
 Du brauchst einen Account bei einer der drei genannten Git-Plattformen, um die Services von Netlify in vollem Umfang nutzen zu können. 
@@ -22,6 +22,7 @@ Diese einfache Art des Deployments würde ich nur für kleine Landingpages oder 
 
 ## Contiunous Deployments
 Größere Projekte, die eh mit Git verwaltet werden, sollten den automatischen Workflow von Netlify nutzen. [Hier wird die notwendige Konfiguration](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/) beschrieben, damit z.B. Github und Netlify miteinander kommunizieren können.
+
 Wenn du das eingerichtet hast, und lokal bei dir ein Repository mit einer Static Site Engine läuft, sieht dein Workflow ab jetzt so aus:
 
 1. Änderungen am Code oder Inhalten commiten
