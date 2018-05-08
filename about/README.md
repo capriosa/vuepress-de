@@ -11,6 +11,7 @@ VuePress.de ist eine privat betriebene Website.
 
 ## Was VuePress.de nicht bietet
 Ich werde hier keine deutsche Dokumentation über VuePress schreiben, aber einzelne Beiträge werden natürlich bestimmte Aspekte von VuePress dokumentieren.
+
 VuePress.de ist kein Forum und bietet keine Kommentarfunktionen. Ich werde hier auch kein Blog betreiben, sondern einfach Artikel zu bestimmtem Themen schreiben.  
 Im [News](/news/) Bereich werde ich einfach kurz und kanpp über Neuigkeiten berichten. Das gleiche gilt für die [Tipps](/tipps). Dort werde ich alles unterbringen, das nicht genug für einen längeren Artikel hergibt.
 Längere Artikel sind [hier](/artikel/) zu finden.

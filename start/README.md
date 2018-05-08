@@ -42,7 +42,8 @@ Aber es lassen sich durchaus auch *normale* Sites entwickeln. Und ich bin davon 
 Und das eine VuePress Site nicht wie VuePress per default aussehen muss, zeigt ja diese Site hier.
 
 ## Die Highlights von VuePress
-- Vue.js Code und Komponenten können im Markdown verwendet werden.
+- Vue.js Code und Komponenten können im Markdown verwendet werden. Dieser Link -  
+<Hello>Vuepress Doku</Hello> - wird von einer Komponente generiert.
 - Wunderschöne Code-Formatierungen mit Syntax-Highlighting
 - Sehr performant
 - Vue.js Theme Engine
