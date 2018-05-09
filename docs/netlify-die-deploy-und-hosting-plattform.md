@@ -3,7 +3,7 @@ title: Netlify - Die Deploy und Hosting Plattform
 sidebar: auto
 ---
 # {{ $page.title }}
-Die US-Amerikanische Firma <Netlify linktext="Netlify"/> betreibt eine ausgezeichnete Plattform für automatische Deployments und dem Hosting von statischen Websites oder Sites des sog. JAMstacks. Netlify nutzt für Deployments das Versionskontrollsystem Git und einen dieser Service-Anbieter: Github, Gitlab oder Bitbucket.
+Die US-Amerikanische Firma <Netlify/> betreibt eine ausgezeichnete Plattform für automatische Deployments und dem Hosting von statischen Websites oder Sites des sog. JAMstacks. Netlify nutzt für Deployments das Versionskontrollsystem Git und einen dieser Service-Anbieter: Github, Gitlab oder Bitbucket.
 
 ::: tip
 Du brauchst einen Account bei einer der drei genannten Git-Plattformen, um die Services von Netlify in vollem Umfang nutzen zu können. 

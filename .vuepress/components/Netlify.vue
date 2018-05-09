@@ -4,6 +4,11 @@
 
 <script>
 export default {
-  props: ['linktext']
+  props: {
+  linktext: {
+    default: 'Netlify',
+    type: String
+  }
 }
+
 </script>
