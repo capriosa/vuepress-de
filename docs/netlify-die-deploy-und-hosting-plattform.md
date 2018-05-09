@@ -11,7 +11,7 @@ Du brauchst einen Account bei einer der drei genannten Git-Plattformen, um die S
 
 Entwickler können auch direkt nach Netlify deployen. Das geht Folgendermaßen mit dem Netlify-CLI.
 
-```
+``` bash{3}
 npm install netlify-cli -g;
 cd ~/my-static-website;
 netlify deploy
