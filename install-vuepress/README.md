@@ -27,6 +27,8 @@ Wähle GitHub und gebe die Client ID und den Client Secret ein und klicke auf 'S
 
 Jetzt kannst du auf deiner VuePress Site das NetlifyCMS aufrufen indem du ‘/admin’ am Ende der URL deiner Site eingibst.
 
+<ShareTwitter sharetext="Artikel über den Netlify Deploy Button für VuePress" url="https://vuepress.de/install-vuepress/" />
+
 ## Lokale Entwicklung
 
 Zur lokalen Entwicklung kannst du gerne mein Github Repository nutzen.
