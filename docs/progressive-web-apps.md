@@ -29,6 +29,8 @@ Die Entwicklung einer PWA entspricht der Entwicklung einer normalen Website mit 
 Einem Benutzer, der die Website auf einem Smartphone aufruft, wird ein Banner angezeigt, wo er mit einem Klick die Site zu seinem Homescreen hinzufügen kann.
 Ruft er später die Site über das Homescreen-Icon auf, sieht er die Site mit einem Look and Feel einer App. So wird z.B. nicht mehr die URL-Leiste angezeigt.
 
+<ShareTwitter sharetext="Hier schreibe ich über Vuepress Sites, als PWA" url="https://vuepress.de/progressive-web-apps.html" />
+
 ## Vorteile einer PWA
 - Muss nicht über einen Store bezogen und installiert werden
 - Kann zum Homescreen hinzugefügt werden
