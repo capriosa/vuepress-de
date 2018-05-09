@@ -1,6 +1,6 @@
 <template>
 <div class="share">
-  <h4>Share this!</h4>
+  <h4>Teile diesen Artikel auf Twitter!</h4>
 <a :href="twitterUrl" target="_blank" class="resp-sharing-button__link">
   
   <div class="resp-sharing-button resp-sharing-button--twitter resp-sharing-button--large"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
