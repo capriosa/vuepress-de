@@ -20,6 +20,8 @@ Einfach in das Verzeichnis deiner statischen Site wechseln, *netlify deploy* auf
 
 Diese einfache Art des Deployments würde ich nur für kleine Landingpages oder zum schnellen Testen empfehlen.
 
+<ShareTwitter sharetext="Hier schreibe ich über Netlify" url="https://vuepress.de/netlify-die-deploy-und-hosting-plattform.html" />
+
 ## Contiunous Deployments
 Größere Projekte, die eh mit Git verwaltet werden, sollten den automatischen Workflow von Netlify nutzen. [Hier wird die notwendige Konfiguration](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/) beschrieben, damit z.B. Github und Netlify miteinander kommunizieren können.
 
