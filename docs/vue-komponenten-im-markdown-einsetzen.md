@@ -41,6 +41,8 @@ Oder so, mit einem anderen Text für den Link.
 <VuePress linktext="VuePress Doku" />
 ```
 
+<ShareTwitter url="vue-komponenten-im-markdown-einsetzen.html" sharetext="Artikel über VuePress und Komponenten im Markdown"
+
 ## Share This Komponente
 
 ``` js
