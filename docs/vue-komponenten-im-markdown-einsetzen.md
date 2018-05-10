@@ -3,6 +3,15 @@ title: Vue Komponenten im Markdown einsetzen
 sidebar: auto
 ---
 {{ $page.title }}
+Ein Alleinstellungsmerkmal von VuePress ist sicherlich die Möglichkeit Vue.js Code oder Vue Komponenten im Markdown einsetzen zu können.
+
+Dieses Feature lässt sich wunderbar für Dokumentationen nutzen. Es gibt Vue Entwicklern die Möglichkeit, Komponenten nicht nur zu beschreiben, sondern im Text einzubinden und direkt zu demonstrieren.
+
+Dieses Feature lässt sich aber auch nutzen, um VuePress zu erweitern. Entwickler können Autoren kleine Tools zur Verfügung stellen, damit die Autoren mehr Möglichkeiten haben, als einfach nur Texte mit Markdown zu schreiben.
+
+Solche Komponenten können kleine *Helferlein* sein, oder auch komplexe Komponenten, die Interaktivität einer Seite hinzufügen. Der Phantasie sind hier keine Grenzen gesetzt.
+
+Ich habe zwei kleine Komponenten entwickelt, die das demonstrieren. Beide setze ich hier auf **VuePress.de** auch ein.
 
 ``` js
 <template>
@@ -28,7 +37,7 @@ Die Komponente kann dann Folgendermaßen im Markdown aufgerufen werden.
 
 Oder so, mit einem anderen Text für den Link.
 
-```md
+``` md
 <VuePress linktext="VuePress Doku" />
 ```
 
@@ -74,3 +83,4 @@ Und so kann diese Komponente im Markdown einer Seite benutzt werden.
 ``` md
 <ShareTwitter url="vue-komponenten-im-markdown-einsetzen" sharetext="Artikel über VuePress und Komponenten im Markdown"
 ```
+## Fazit
