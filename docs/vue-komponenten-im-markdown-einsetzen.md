@@ -18,7 +18,7 @@ Die erste Komponente ist sehr einfach und hilft einfach nur etwas Tipparbeit zu 
 
 Hier der Code der Komponente.
 
-``` js
+``` js
 <template>
   <a href="https://vuepress.vuejs.org" target="_blank">{{ linktext }}</a>
 </template>
@@ -59,7 +59,7 @@ Die einfache Möglichkeit Komponenten im Markdown aufzurufen, hilft auch beim Le
 
 Hier der Code der *Share to Twitter* Komponente.
 
-``` js
+``` js
 <template>
 <div class="share">
 <h4>Teile dies auf Twitter!</h4>
@@ -97,7 +97,7 @@ computed: {
 Und so kann diese Komponente im Markdown einer Seite benutzt werden.
 
 ``` md
-<ShareTwitter url="vue-komponenten-im-markdown-einsetzen" sharetext="Artikel über VuePress und Komponenten im Markdown"
+<ShareTwitter url="vue-komponenten-im-markdown-einsetzen" sharetext="Artikel über VuePress und Komponenten im Markdown" />
 ```
 ## Fazit
 Ich finde die Möglichkeit, Komponenten im Markdown einzubinden, bietet einzigartige Möglichkeiten für VuePress Sites. Mir hilft das sehr bei meinen Bemühungen Vue.js zu lernen.
