@@ -2,7 +2,7 @@
 title: Vue Komponenten im Markdown einsetzen
 sidebar: auto
 ---
-{{ $page.title }}
+# {{ $page.title }}
 Ein Alleinstellungsmerkmal von VuePress ist sicherlich die Möglichkeit, Vue.js Code oder Vue Komponenten im Markdown einsetzen zu können.
 
 Dieses Feature lässt sich wunderbar für Dokumentationen und Tutorials nutzen. Es gibt Vue Entwicklern die Möglichkeit, Komponenten nicht nur zu beschreiben, sondern im Text einzubinden und direkt zu demonstrieren.
@@ -13,11 +13,12 @@ Solche Komponenten können kleine *Helferlein* sein, oder auch komplexe Komponen
 
 Ich habe zwei kleine Komponenten entwickelt, die das demonstrieren. Beide setze ich hier auf **VuePress.de** auch ein.
 
+## Kleine Komponente zur vereinfachten Erstellung von Links
 Die erste Komponente ist sehr einfach und hilft einfach nur etwas Tipparbeit zu sparen. Auf einer Seite zum Thema **VuePress** wird man sicherlich öfter einen Link zur Dokumentation von VuePress anbieten. Dank dieser Komponente, ist so ein Link wesentlich schneller, als mit Markdown, geschrieben.
 
 Hier der Code der Komponente.
 
-``` js
+```js
 <template>
   <a href="https://vuepress.vuejs.org" target="_blank">{{ linktext }}</a>
 </template>
@@ -47,7 +48,7 @@ Oder so, mit einem anderen Text für den Link.
 
 Wie gesagt, eine sehr simple Komponente, aber für mich hier ganz nützlich.
 
-<ShareTwitter url="vue-komponenten-im-markdown-einsetzen.html" sharetext="Artikel über VuePress und Komponenten im Markdown"
+<ShareTwitter url="vue-komponenten-im-markdown-einsetzen.html" sharetext="Artikel über VuePress und Komponenten im Markdown" />
 
 ## Share This Komponente
 Diese Komponente ist etwas komplexer, aber auch wesentlich nützlicher. Autoren können damit sehr einfach einen Block erstellen, der einen *Share This on Twitter* Link enthält und ansprechend gestaltet ist. Den HTML-Code dazu, habe ich mal irgendwo im Netz gefunden und habe daraus eine Vue Komponente gemacht.
@@ -58,7 +59,7 @@ Die einfache Möglichkeit Komponenten im Markdown aufzurufen, hilft auch beim Le
 
 Hier der Code der *Share to Twitter* Komponente.
 
-``` js
+```js
 <template>
 <div class="share">
 <h4>Teile dies auf Twitter!</h4>
@@ -96,8 +97,11 @@ computed: {
 Und so kann diese Komponente im Markdown einer Seite benutzt werden.
 
 ``` md
-<ShareTwitter url="vue-komponenten-im-markdown-einsetzen" sharetext="Artikel über VuePress und Komponenten im Markdown"
+<ShareTwitter url="vue-komponenten-im-markdown-einsetzen" sharetext="Artikel über VuePress und Komponenten im Markdown" />
 ```
+
+Die Komponente werde ich noch erweitern, damit auch *Share This* Buttons für Facebook und Google Plus generiert werden.
+
 ## Fazit
 Ich finde die Möglichkeit, Komponenten im Markdown einzubinden, bietet einzigartige Möglichkeiten für VuePress Sites. Mir hilft das sehr bei meinen Bemühungen Vue.js zu lernen.
 
