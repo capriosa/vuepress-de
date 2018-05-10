@@ -18,7 +18,7 @@ Die erste Komponente ist sehr einfach und hilft einfach nur etwas Tipparbeit zu 
 
 Hier der Code der Komponente.
 
-``` js
+```js
 <template>
   <a href="https://vuepress.vuejs.org" target="_blank">{{ linktext }}</a>
 </template>
@@ -59,7 +59,7 @@ Die einfache Möglichkeit Komponenten im Markdown aufzurufen, hilft auch beim Le
 
 Hier der Code der *Share to Twitter* Komponente.
 
-``` js
+```js
 <template>
 <div class="share">
 <h4>Teile dies auf Twitter!</h4>
