@@ -25,7 +25,7 @@ export default {
 },
 computed: {
     twitterUrl() {
-      return 'https://twitter.com/intent/tweet/?text=' + this.sharetext + '&' + 'url=' + this.url;
+      return 'https://twitter.com/intent/tweet/?text=' + this.sharetext + '&' + 'url=https://vuepress.de/' + this.url;
     }
   }
 }

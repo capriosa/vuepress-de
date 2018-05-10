@@ -4,6 +4,12 @@ title: Artikel über Vuepress und Vue.js
 
 # Artikel
 
+## Vue Komponenten im Markdown einsetzen
+Ein Alleinstellungsmerkmal von VuePress ist sicherlich die Möglichkeit, Vue.js Code oder Vue Komponenten im Markdown einsetzen zu können.
+Dieses Feature lässt sich wunderbar für Dokumentationen und Tutorials nutzen. Es gibt Vue Entwicklern die Möglichkeit, Komponenten nicht nur zu beschreiben, sondern im Text einzubinden und direkt zu demonstrieren.
+
+[Artikel über Komponenten lesen](/docs/vue-komponenten-im-markdown-einsetzen.html)
+
 ## Netlify - Die Deploy- und Hosting-Plattform
 Die US-Amerikanische Firma [Netlily](https://netlify.com) betreibt eine ausgezeichnete Plattform für automatische Deployments und dem Hosting von statischen Websites oder Sites des sog. JAMstacks. Netlify nutzt für Deployments das Versionskontrollsystem Git und einen dieser Service-Anbieter: Github, Gitlab oder Bitbucket.
 
