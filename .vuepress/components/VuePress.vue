@@ -1,15 +1,14 @@
 <template>
-  <a href="https://netlify.com" target="_blank">{{ linktext }}</a>
+  <a href="https://vuepress.vuejs.org" target="_blank">{{ linktext }}</a>
 </template>
 
 <script>
 export default {
   props: {
   linktext: {
-    default: 'Netlify',
+    default: 'VuePress',
     type: String
   }
 }
 }
-
 </script>
