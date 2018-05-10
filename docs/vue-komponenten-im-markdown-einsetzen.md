@@ -99,6 +99,9 @@ Und so kann diese Komponente im Markdown einer Seite benutzt werden.
 ``` md
 <ShareTwitter url="vue-komponenten-im-markdown-einsetzen" sharetext="Artikel über VuePress und Komponenten im Markdown" />
 ```
+
+Die Komponente werde ich noch erweitern, damit auch *Share This* Buttons für Facebook und Google Plus generiert werden.
+
 ## Fazit
 Ich finde die Möglichkeit, Komponenten im Markdown einzubinden, bietet einzigartige Möglichkeiten für VuePress Sites. Mir hilft das sehr bei meinen Bemühungen Vue.js zu lernen.
 
