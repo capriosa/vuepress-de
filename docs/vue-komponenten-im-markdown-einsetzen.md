@@ -103,6 +103,6 @@ Und so kann diese Komponente im Markdown einer Seite benutzt werden.
 Die Komponente werde ich noch erweitern, damit auch *Share This* Buttons für Facebook und Google Plus generiert werden.
 
 ## Fazit
-Ich finde die Möglichkeit, Komponenten im Markdown einzubinden, bietet einzigartige Möglichkeiten für VuePress Sites. Mir hilft das sehr bei meinen Bemühungen Vue.js zu lernen.
+Komponenten im Markdown einer Seite einzubinden, bietet einzigartige Möglichkeiten für VuePress Sites.
 
-Entwickler können bessere Dokumentationen schreiben, aber auch Komponenten schreiben, die das UI/UX von VuePress Sites verbessern und Autoren hilft, optisch ansprechende Artikel oder Blog-Beiträge zu schreiben.
+Entwickler können bessere Dokumentationen und Tutorials schreiben, aber auch Komponenten entwickeln, die das UI/UX von VuePress Sites verbessern und Autoren hilft, optisch ansprechende Artikel oder Blog-Beiträge zu schreiben.
