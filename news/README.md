@@ -5,7 +5,9 @@ sidebar: auto
 Hier findest du kurz zusammengefasste News zu allen Themen rund um Vue.js und VuePress.
 
 ## Vuejs.org auf Netlify
-[Vue.js](http://Vuejs.org)  Vuejs.org ist seit Anfang Mai 2018 *powered by* [Netlify](https://netlify.com).
+[Vue.js](http://Vuejs.org)  Vuejs.org ist seit Anfang Mai 2018 *powered by*  [Netlify](https://netlify.com).
+
+<ShareTwitter sharetext="Vuepress News" url="https://vuepress.de/news/" />
 
 ## Algolia Suche
 Ohne großes TamTam wurde die Algolia-Suche integriert. Es stand plötzlich nicht mehr in der Liste der Todos.

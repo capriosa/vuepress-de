@@ -17,17 +17,4 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Sidebar", name: "sidebar", widget: "string",optional:true,default:"auto"}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "landingpage"
-    label: "Landingpage"  
-    folder: "landingpages"
-    create: true
-    slug: "{{slug}}"
-    widget: "list"
-    fields:
-      - {label: Quote, name: quote, widget: string, default: "Everything is awesome!"}
-      - label: Author
-        name: author
-        widget: object
-        fields:
-          - {label: Name, name: name, widget: string, default: "Emmet"}
         
