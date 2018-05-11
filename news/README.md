@@ -4,6 +4,14 @@ sidebar: auto
 # News
 Hier findest du kurz zusammengefasste News zu allen Themen rund um Vue.js und VuePress.
 
+## Neue npm Version und Sicherheits-Audits verfügbar
+Die neue NPM Version kann so installiert werden:
+```bash
+npm install npm -g
+```
+In Verzeichnissen von Projekten kann dann npm audit aufgerufen werden und man erhält eine Auflistung von Aktualisierungen und Sicherheitslücken.
+[Artikel lesen](https://docs.npmjs.com/getting-started/running-a-security-audit?utm_campaign=2018-05-09%20nsp%20audit%20announcement&utm_medium=email&utm_source=Eloqua)
+
 ## Vuejs.org auf Netlify
 [Vue.js](http://Vuejs.org)  Vuejs.org ist seit Anfang Mai 2018 *powered by*  [Netlify](https://netlify.com).
 
