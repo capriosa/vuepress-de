@@ -34,7 +34,7 @@ export default {
 }
 </script>
 ```
-Die Komponente kann dann Folgendermaßen im Markdown aufgerufen werden.
+Die Komponente kann dann Folgendermaßen, im Markdown, aufgerufen werden.
 
 ``` md
 <VuePress />
@@ -53,7 +53,7 @@ Wie gesagt, eine sehr simple Komponente, aber für mich hier ganz nützlich.
 ## Share This Komponente
 Diese Komponente ist etwas komplexer, aber auch wesentlich nützlicher. Autoren können damit sehr einfach einen Block erstellen, der einen *Share This on Twitter* Link enthält und ansprechend gestaltet ist. Den HTML-Code dazu, habe ich mal irgendwo im Netz gefunden und habe daraus eine Vue Komponente gemacht.
 
-::: Tip
+::: tip
 Die einfache Möglichkeit Komponenten im Markdown aufzurufen, hilft auch beim Lernen von Vue.js. Man kann sich auf das Wesentliche konzentrieren: die Entwicklung von Single File Components.
 :::
 
@@ -103,6 +103,6 @@ Und so kann diese Komponente im Markdown einer Seite benutzt werden.
 Die Komponente werde ich noch erweitern, damit auch *Share This* Buttons für Facebook und Google Plus generiert werden.
 
 ## Fazit
-Ich finde die Möglichkeit, Komponenten im Markdown einzubinden, bietet einzigartige Möglichkeiten für VuePress Sites. Mir hilft das sehr bei meinen Bemühungen Vue.js zu lernen.
+Komponenten im Markdown einer Seite einzubinden, bietet einzigartige Möglichkeiten für VuePress Sites.
 
-Entwickler können bessere Dokumentationen schreiben, aber auch Komponenten schreiben, die das UI/UX von VuePress Sites verbessern und Autoren hilft, optisch ansprechende Artikel oder Blog-Beiträge zu schreiben.
+Entwickler können bessere Dokumentationen und Tutorials schreiben, aber auch Komponenten entwickeln, die das UI/UX von VuePress Sites verbessern und Autoren hilft, optisch ansprechende Artikel oder Blog-Beiträge zu schreiben.
