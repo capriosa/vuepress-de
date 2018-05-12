@@ -51,7 +51,7 @@ Oder so, mit einem anderen Text für den Link.
 
 Wie gesagt, eine sehr simple Komponente, aber für mich hier ganz nützlich.
 
-<ShareTwitter url=vue-komponenten-im-markdown-einsetzen.htmlsharetext=Artikel über die Möglichkeit Vue-Komponenten im Markdown einzusetzen./>
+<ShareTwitter url=vue-komponenten-im-markdown-einsetzensharetext=Artikel über die Möglichkeite Vue-Komponenten im Markdown einzusetzen./>
 
 ## Share This Komponente
 
