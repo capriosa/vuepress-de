@@ -2,6 +2,8 @@
 title: Progressive Web Apps
 sidebar: auto
 ---
+<GridBlocks  feature1="undefined" feature2="undefined" feature3="undefined></GridBlocks>
+
 # {{ $page.title }}
 
 _Progressive_, also fortschrittliche Web Apps, sollen die Apps der Zukunft werden. So stellt es sich zumindest Google vor. Apps sollen dann nicht mehr über App-Stores installiert werden, sondern einfach über den Browser. Es sei mal dahingestellt, ob sich dieses Model durchsetzt, aber bereits heute haben PWA's enorme Vorteile verglichen mit _normalen_ Websites.
@@ -37,6 +39,8 @@ Ruft er später die Site über das Homescreen-Icon auf, sieht er die Site mit ei
 <ShareTwitter sharetext="Hier schreibe ich über Vuepress Sites, als PWA" url="https://vuepress.de/progressive-web-apps.html" />
 
 ## Vorteile einer PWA
+
+<GridBlocks  feature1="Muss nicht über einen \*\*App-Store\*\* bezogen und installiert werden." feature2="Kann zum Homescreen hinzugefügt werden" feature3="Funktioniert auch Offline oder einer schlechten Verbindung></GridBlocks>
 
 * Muss nicht über einen Store bezogen und installiert werden
 * Kann zum Homescreen hinzugefügt werden
