@@ -5,7 +5,7 @@
   <div>{{ feature3 }}</div>
 </div>
 
-</div>
+
 </template>
 
 <script>
