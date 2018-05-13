@@ -59,8 +59,8 @@
             // Fields the user need to fill out when adding an instance of the component
             fields: [{
                 name: 'feature_1',
-                label: 'Feadture left',
-                widget: 'markdown'
+                label: 'Feature left',
+                widget: 'string'
             }, {
                 name: 'feature_2',
                 label: 'Feature Middle',
@@ -80,7 +80,7 @@
             },
             // Function to create a text block from an instance of this component
             toBlock: function(obj) {
-                return '<GridBlocks  feature1=\"' + obj.feature_1 + '\" feature2=\"' + obj.feature_2 + '\" feature3=\"' + obj.feature_3 + '></GridBlocks>'
+                return '<GridBlocks  feature1=\"' + obj.feature_1 + '\" feature2=\"' + obj.feature_2 + '\" feature3=\"' + obj.feature_3 + '/>'
             },
             // Preview output for this component. Can either be a string or a React component
             // (component gives better render performance)
