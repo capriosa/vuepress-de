@@ -38,7 +38,7 @@ Ruft er später die Site über das Homescreen-Icon auf, sieht er die Site mit ei
 
 ## Vorteile einer PWA
 
-<GridBlocks  feature1="### 1. Muss nicht über einen Store bezogen und installiert werden" feature2="Kann zum Homescreen hinzugefügt werden" feature3="Funktioniert auch Offline oder einer schlechten Verbindung" />
+<GridBlocks  feature1="Die App muss nicht über einen Store bezogen und installiert werden." feature2="Die App kann zum Homescreen hinzugefügt werden." feature3="Die App funktioniert auch Offline oder mit einer schlechten Verbindung." />
 
 ::: tip Info
 Wer es mit seiner Website auf den Homescreen eines Besuchers schafft, hat enorme Wettbewerbsvorteile gegenüber seiner Konkurrenz.
