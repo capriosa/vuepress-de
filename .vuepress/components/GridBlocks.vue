@@ -11,15 +11,9 @@
 <script>
 export default {
   props: {
-  feature1: {
-    type: String
-  },
-  feature2: {
-    type: String
-  },
-  feature3: {
-    type: String
-  }
+  feature1,
+  feature2,
+  feature3
   }
 }
 </script>
