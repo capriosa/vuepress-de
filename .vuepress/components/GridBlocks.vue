@@ -10,10 +10,6 @@
 
 <script>
 export default {
-  props: {
-  feature1,
-  feature2,
-  feature3
-  }
+  props: ['feature1','feature2','feature3']
 }
 </script>
