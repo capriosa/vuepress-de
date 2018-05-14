@@ -57,21 +57,18 @@
             // Visible label
             label: "Feature Blocks",
             // Fields the user need to fill out when adding an instance of the component
-            fields: [{[
-                name: 'headline',
-                label: 'Title',
-                widget: 'string'],
-                [name: 'feature_1',
+            fields: [{
+                name: 'feature_1',
                 label: 'Feature left',
-                widget: 'markdown']
+                widget: 'markdown'
             }, {
                 name: 'feature_2',
                 label: 'Feature Middle',
-                widget: 'string'
+                widget: 'markdown'
             }, {
                 name: 'feature_3',
                 label: 'Feature Right',
-                widget: 'string'
+                widget: 'markdown'
             }],
             // Pattern to identify a block as being an instance of this component
             pattern: /^features (\S+)$/,
