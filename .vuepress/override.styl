@@ -275,7 +275,6 @@ a.sidebar-link:hover, a.sidebar-link.active {
     display: flex;
     justify-content: center;
     align-items: center;
-    
     border-bottom: 1px solid #55acee;
     margin-bottom: 30px;
     padding-bottom: 10px;
@@ -287,6 +286,16 @@ a.sidebar-link:hover, a.sidebar-link.active {
     margin-top: 30px;
 }
 
-.theme-container {
-  padding-top: 70px;
-}
+.flex-wrapper 
+    display: flex
+    justify-content: space-around
+    padding-top: 30px
+    
+.flex-wrapper div
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin: 0 15px;
+    flex-grow: 1;
+    flex-basis: 0;
+    border-radius: 3px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)
