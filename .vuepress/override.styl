@@ -284,10 +284,13 @@ a.sidebar-link:hover, a.sidebar-link.active {
     margin-top: 30px;
 }
 
-.flex-wrapper 
-    display: flex
-    justify-content: space-around
+@screen and (min-width=1000px) {
+.flex-wrapper {
+    display: flex;
+    justify-content: space-between;
     padding-top: 30px
+}
+}
     
 .flex-wrapper div
     border: 1px solid #ccc;
