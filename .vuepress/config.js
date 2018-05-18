@@ -1,6 +1,6 @@
 module.exports = {
     title: "VuePress.de",
-    description: "Hier schreibe ich über Vue und Vuepress",
+    description: "Hier schreibe ich über Vue und Vuepress.",
     head: [
         ['link', { rel: 'icon', href: `/logo.png` }],
         ['link', { rel: 'manifest', href: '/manifest.json' }],
