@@ -10,8 +10,6 @@ _Progressive_, also fortschrittliche Web Apps, sollen die Apps der Zukunft werde
 Eine PWA ist eine Responsive Website, die einige Merkmale besitzt, die wir von nativen Apps kennen. So können z.B. Inhalte auch Offline gelesen werden.
 :::
 
-<GridBlocks  feature1="## Test" feature2="undefined" feature3="undefined" />
-
 ## Anforderungen
 
 Folgende Anforderungen müssen erfüllt werden, damit ein Browser die Website als PWA identifiziert.

@@ -286,11 +286,14 @@ a.sidebar-link:hover, a.sidebar-link.active {
     margin-top: 30px;
 }
 
-.flex-wrapper 
-    display: flex
-    justify-content: space-around
+@media only screen and (min-width:1000px) {
+.flex-wrapper {
+    display: flex;
+    justify-content: space-between;
     padding-top: 30px
-    
+}
+}
+
 .flex-wrapper div
     border: 1px solid #ccc;
     padding: 15px;
@@ -299,3 +302,9 @@ a.sidebar-link:hover, a.sidebar-link.active {
     flex-basis: 0;
     border-radius: 3px;
     box-shadow: 0 1px 1px rgba(0,0,0,0.19), 0 3px 3px rgba(0,0,0,0.19)
+
+@media only screen and (max-width:999px) {
+    .flex-wrapper div {
+        margin-top: 30px;
+    }
+}
