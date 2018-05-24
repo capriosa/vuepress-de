@@ -23,6 +23,7 @@ module.exports = {
             { text: 'News', link: '/news/' },
             { text: 'Tipps', link: '/tipps/' },
             { text: 'Impressum', link: '/impressum/' },
+            { text: 'Datenschutz', link: '/datenschutz/' },
             { text: 'Kontakt', link: '/kontakt/' },
             { text: 'One-Click Deploy', link: '/one-click-deploy/' }
 
