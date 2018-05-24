@@ -17,3 +17,5 @@ Und wie schon bei meinem Framework7 Demo-Projekt, sollte es mit dem GraphCMS arb
 
 [Hier ist mein Projekt, welches diese Technologien kombiniert](https://nuxt-amp.netlify.com) zu finden.  
 Und hier das [Github Repo](https://github.com/capriosa/nuxt-amp).
+
+Als GraphCMS Content-Model habe ich das selbe verwendet, wie schon für meine hybride Framework7 App. Das demonstriert sehr schön, wie einfach es ist, die Inhalte unterschiedlicher Apps mit dem GraphCMS zu erstellen und zu pflegen.
