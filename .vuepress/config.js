@@ -19,9 +19,9 @@ module.exports = {
         nav: [
             { text: 'VuePress', link: '/start/' },
             { text: 'Artikel', link: '/artikel/' },
-            { text: 'About', link: '/about/' },
             { text: 'News', link: '/news/' },
             { text: 'Tipps', link: '/tipps/' },
+            { text: 'About', link: '/about/' },
             { text: 'Impressum', link: '/impressum/' },
             { text: 'Datenschutz', link: '/datenschutz/' },
             { text: 'Kontakt', link: '/kontakt/' },
