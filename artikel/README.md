@@ -3,7 +3,12 @@ title: Artikel über Vuepress und Vue.js
 ---
 
 # Artikel
-Hier schreibe und veröffentliche ich Artikel über Vuj.js Und Vuepress.  
+Hier schreibe und veröffentliche ich Artikel über Vuj.js **und** Vuepress.  
+
+## NPM - Node Module erstellen
+In diesem Beitrag möchte ich darstellen, wie einfach du ein NPM Modul, z.B. für eine Vue Komponente, erstellen kannst.
+
+[Artikel über Komponenten lesen](/docs/node-module-erstellen.html)
 
 ## Vue Komponenten im Markdown einsetzen
 Ein Alleinstellungsmerkmal von VuePress ist sicherlich die Möglichkeit, Vue.js Code oder Vue Komponenten im Markdown einsetzen zu können.
