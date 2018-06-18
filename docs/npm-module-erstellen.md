@@ -67,4 +67,4 @@ npm install my-vue-component
 
 installieren.
 
-<ShareTwitter url="https://www.vuepress.de/docs/npm-module-erstellen.html" sharetext="Hier wird beschrieben, wie ein Node Modul erstellt wird." />
+<ShareTwitter url="npm-module-erstellen.html" sharetext="Hier wird beschrieben, wie ein Node Modul erstellt wird." />
