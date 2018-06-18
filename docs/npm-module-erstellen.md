@@ -26,7 +26,7 @@ Dadurch wird eine package.json Datei generiert, die zur Veröffentlichung deines
   "main": "MyVueComponent.vue",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/capriosa/my-vue-component.git"
+    "url": "https://github.com/capriosa/my-vue-component.git"
   },
   "keywords": [
     "Vue",
